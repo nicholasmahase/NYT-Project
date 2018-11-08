@@ -2,10 +2,31 @@
 .heading{
     background-color: rgb(3, 3, 68);
     color: white;
+    height: 120px;
+    
+    margin-bottom: 3%;
 }
-
-.middleSect, .art{
+.mainh1{
+    padding-top: 4%;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-weight: bolder;
+    font-size: 27px;
+}
+.fa-newspaper{
+    margin-right: 5px;
+}
+.middleSect, #article{
     border: 1px solid lightgray;
     margin-bottom: 3%;
 }
+.navbar{
+    border: 1px solid lightgray;
+}
+.btn{
+    background-color: white;
+    margin-bottom: 10px;
+}
 
+  
+  
+  
